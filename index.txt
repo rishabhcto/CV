@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> Rishabh L. Jha </title>
+</head>
+<body>
+<h1> Rishabh Lalit Jha </h1>
+<p><i>Engineer by Profession, Educator by Passion</i></p>
+<p> Co-Founder and C.T.O at <a href="https://sixhatstech.com/"> Six Hats Technologies Pvt. Ltd. </a> </p>
+</body>
+</html>
